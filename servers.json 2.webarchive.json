@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "name": "[rashad's server]",
-            "address": "[https://anisette-v3-server-ysss.onrender.com/]"
+            "name": "rashad's server",
+            "address": "[https://anisette-v3-server-ysss.onrender.com"
         }
     ]
 }
